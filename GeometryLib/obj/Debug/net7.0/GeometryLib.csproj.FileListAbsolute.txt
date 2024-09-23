@@ -1,0 +1,12 @@
+/Users/danilegorkin/RiderProjects/MindBox/GeometryLib/bin/Debug/net7.0/GeometryLib.deps.json
+/Users/danilegorkin/RiderProjects/MindBox/GeometryLib/bin/Debug/net7.0/GeometryLib.dll
+/Users/danilegorkin/RiderProjects/MindBox/GeometryLib/bin/Debug/net7.0/GeometryLib.pdb
+/Users/danilegorkin/RiderProjects/MindBox/GeometryLib/obj/Debug/net7.0/GeometryLib.csproj.AssemblyReference.cache
+/Users/danilegorkin/RiderProjects/MindBox/GeometryLib/obj/Debug/net7.0/GeometryLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilegorkin/RiderProjects/MindBox/GeometryLib/obj/Debug/net7.0/GeometryLib.AssemblyInfoInputs.cache
+/Users/danilegorkin/RiderProjects/MindBox/GeometryLib/obj/Debug/net7.0/GeometryLib.AssemblyInfo.cs
+/Users/danilegorkin/RiderProjects/MindBox/GeometryLib/obj/Debug/net7.0/GeometryLib.csproj.CoreCompileInputs.cache
+/Users/danilegorkin/RiderProjects/MindBox/GeometryLib/obj/Debug/net7.0/GeometryLib.dll
+/Users/danilegorkin/RiderProjects/MindBox/GeometryLib/obj/Debug/net7.0/refint/GeometryLib.dll
+/Users/danilegorkin/RiderProjects/MindBox/GeometryLib/obj/Debug/net7.0/GeometryLib.pdb
+/Users/danilegorkin/RiderProjects/MindBox/GeometryLib/obj/Debug/net7.0/ref/GeometryLib.dll
